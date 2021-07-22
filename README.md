@@ -1,1 +1,1 @@
-{"open": false, "url": "https://www.baidu.com"}
+{"open": true, "url": "https://showlive3.net/?code=P98K4s"}
